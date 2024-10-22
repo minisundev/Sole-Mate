@@ -7,20 +7,20 @@ assignees: minisundev
 
 ---
 
-### Feature Description
+## Feature Description
 <!-- Provide a clear and concise description of the new feature you are proposing -->
 
-### Use Case
+## Use Case
 <!-- Provide specific examples or scenarios where this feature would be helpful -->
 
-### Benefits
+## Benefits
 <!-- Explain the benefits of adding this feature to the project (e.g., user experience, functionality, etc.) -->
 
-### Possible Implementation
+## Possible Implementation
 <!-- If applicable, provide technical suggestions on how this feature could be implemented, including any potential dependencies or frameworks -->
 
-### Alternatives Considered
+## Alternatives Considered
 <!-- List any alternative solutions or features that could also solve this problem, if applicable -->
 
-### Additional Information
+## Additional Information
 <!-- Add any other context, screenshots, or documentation related to the feature request -->
