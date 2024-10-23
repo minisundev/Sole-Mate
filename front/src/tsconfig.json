@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ES6", // The target version for JavaScript compilation
+        "module": "ESNext", // Module system (ES Modules)
+        "jsx": "react-jsx", // Support for JSX
+        "strict": true, // Strict type checking options
+        "moduleResolution": "node", // Module resolution strategy
+        "esModuleInterop": true, // Interoperability between CommonJS and ES Modules
+        "skipLibCheck": true, // Skip type checking of declaration files
+        "forceConsistentCasingInFileNames": true, // Enforce consistent casing in file names
+        "allowJs": true // Allow compatibility with .js files
+    },
+    "include": [
+        "src/**/*" // Include all files under the src directory
+    ],
+    "exclude": [
+        "node_modules",
+        "build"
+    ]
+}
